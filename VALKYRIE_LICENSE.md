@@ -1,4 +1,4 @@
-## End User License Agreement (EULA) {product}
+## End User License Agreement (EULA) Valkyrie Software
 
 Copyright (c) All Rights Reserved @ 2024
 
@@ -17,7 +17,7 @@ Copyright (c) All Rights Reserved @ 2024
 - "Server"       (The server (computing device) on which the Software ("Software") is ran on)
 
 ### 1. Grant of License
-This End User License Agreement ("EULA") grants you, the end user ("Licensee"), a non-exclusive, non-transferable license to use one (1) copy of the provided product, {product} and its Software ("Software") on any computer system owned by you, the end user ("Licensee"), for **personal**, **non-commercial**, **server-based** purposes only. "commercial" (Inverse being "non-commercial") purposes refers to the direct distribution and selling of the Software ("Software"). We shall refer to these purposes as "Personal use". "Personal use" allows you to install the Software ("Software") on a Minecraft Server ("Server") to enhance the experience of you, the end user ("Licensee"), and or any players within your server ("Server"), provided the server ("Server") and you, the end user ("Licensee") adhere to the limitations outlined below.
+This End User License Agreement ("EULA") grants you, the end user ("Licensee"), a non-exclusive, non-transferable license to use one (1) copy of the provided product, Valkyrie Software and its Software ("Software") on any computer system owned by you, the end user ("Licensee"), for **personal**, **non-commercial**, **server-based** purposes only. "commercial" (Inverse being "non-commercial") purposes refers to the direct distribution and selling of the Software ("Software"). We shall refer to these purposes as "Personal use". "Personal use" allows you to install the Software ("Software") on a Minecraft Server ("Server") to enhance the experience of you, the end user ("Licensee"), and or any players within your server ("Server"), provided the server ("Server") and you, the end user ("Licensee") adhere to the limitations outlined below.
 
 ### 2. Limitations
 * **Activations**: You are limited to a maximum of five (5) activations of the Software ("Software") per calender month, per license key.
@@ -28,7 +28,7 @@ This End User License Agreement ("EULA") grants you, the end user ("Licensee"), 
 
 ### 3. License Notice
 You must include the following copyright notice on your server ("Server") and any documentation you create:
-  Copyright (c) 2024 Byte-Eye (uwuvern | Ashley). All rights reserved. "Powered by {product}"
+  Copyright (c) 2024 Byte-Eye (uwuvern | Ashley). All rights reserved. "Powered by Valkyrie Software"
 
 ### 4. Ownership
 The Software ("Software") is protected by copyright and other intellectual property laws. Byte-Eye (uwuvern | Ashley) retains all ownership rights to the Software ("Software").
